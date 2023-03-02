@@ -91,12 +91,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sayeed-h&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sayeed-h&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayeed-h&hide_border=true&layout=compact" align="left" /> </div>
+
 
 <br/>  
 
-
-## Recent Blog Posts  
   
 
 <br/>  
@@ -114,23 +114,10 @@
 
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayeed-h&hide_border=true&layout=compact" align="left" />  
+
 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -146,4 +133,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
