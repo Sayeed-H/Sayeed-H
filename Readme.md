@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="500" />
-</div>  
+
   
 
 ### <div align="center">I'm Sayeed Hasan, 👨‍💻 🚀</div>  
